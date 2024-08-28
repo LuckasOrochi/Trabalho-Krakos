@@ -39,11 +39,11 @@ const perguntas = [
     },
 
     {
-        enunciado: "Quais as causas das desigualdades sociais? A educação pode conscientizar sobre Fake News e Desigualdade Social?",
+        enunciado: "E a luta contra o Isshin, achou facil?",
         alternativas: [
             {
-                texto: "Distribuição de renda e baixa qualificação profissional. A educação pode ser a ferramenta para conscientizar a sociedade.",
-                afirmacao: "O problema é  político, social e econômico com foco na  má distribuição de renda, consequentemente inoportunidades na  formação de qualificação, tanto profissional quanto pessoal."
+                texto: "Sim.",
+                afirmacao: "Pegando o MoveSet fica facil."
             },
 
             {
