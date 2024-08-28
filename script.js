@@ -19,7 +19,7 @@ const perguntas = [
                 texto: "Não acho bom",
                 afirmação: "Os boss são muito dificil",
 
-            },
+            }
         ]
     },
 
@@ -91,7 +91,7 @@ function resposta_selecionada(opcao_selecionada) {
 };
 
 function mostra_resultado() {
-    caixa_Perguntas.textContent = "";
+    caixa_Perguntas.textContent = "No Jogo Gof of War eu...";
     texto_Resultado.textContent = historia_final;
     caixa_Alternativas.textContent = "";
 };
