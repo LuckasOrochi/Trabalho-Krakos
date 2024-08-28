@@ -47,8 +47,8 @@ const perguntas = [
             },
 
             {
-                texto: "Falta de acessibilidade e utilização adequada da tecnologia para a qualificação profissional. A educação não interfere na conscientização da sociedade.",
-                afirmacao: "Dificuldade em conciliar trabalho com estudo. As barreiras que ainda existem em relação ao acesso a conexão e equipamentos que permitam essa tal formação."
+                texto: "Não, nem lascando",
+                afirmacao: "Eu quase desisti quando cheguei nele."
             }
         ]
     }
